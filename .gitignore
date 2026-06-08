@@ -1,0 +1,6 @@
+# すべてを無視
+*
+
+# .gitignore 自体と motion2morph.py は追跡対象にする
+!.gitignore
+!motion2morph.py
